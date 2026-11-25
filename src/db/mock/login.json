@@ -1,0 +1,10 @@
+{
+  "user": {
+    "id": "u1",
+    "fullName": "Wiji Sejati Sukmoyadi",
+    "nickname": "Wiji",
+    "email": "wiji.sejati@email.com",
+    "role": "Investor"
+  },
+  "catatan": "Mock auth: email apa saja + password min 8 karakter = berhasil. Simpan di /src/mock/user.json"
+}

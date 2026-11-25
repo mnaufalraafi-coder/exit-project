@@ -1,0 +1,13 @@
+{
+  "fields": [
+    "fullName",
+    "email",
+    "phone",
+    "password",
+    "agreeTerms"
+  ],
+  "rules": {
+    "password": "min 8, huruf+angka",
+    "phone": "awalan +62"
+  }
+}

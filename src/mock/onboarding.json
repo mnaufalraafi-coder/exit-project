@@ -1,0 +1,28 @@
+{
+  "steps": [
+    "Data Akun",
+    "Verifikasi Identitas",
+    "Data Rekening",
+    "Selesai"
+  ],
+  "fields": {
+    "1": [
+      "fullName",
+      "email",
+      "phone",
+      "password",
+      "confirmPassword",
+      "agreeTerms"
+    ],
+    "2": [
+      "nik(16 digit)",
+      "ktpPhoto",
+      "selfiePhoto"
+    ],
+    "3": [
+      "bankName",
+      "accountNumber",
+      "accountHolder"
+    ]
+  }
+}
