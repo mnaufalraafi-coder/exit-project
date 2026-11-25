@@ -1,0 +1,37 @@
+@import "tailwindcss";
+
+/* ── EXIT Design Tokens ── */
+:root {
+  --navy: #081F3B;
+  --ivory: #F8F5EF;
+  --gold: #D4A657;
+  --gold-dark: #A9792F;
+  --white: #FFFFFF;
+  --text-primary: #17243A;
+  --text-secondary: #667085;
+  --border: #E8E1D7;
+  --success: #27834A;
+  --warning: #D18A25;
+  --danger: #C94B45;
+  --surface-soft: #FCFAF7;
+}
+
+@theme inline {
+  --color-navy: var(--navy);
+  --color-ivory: var(--ivory);
+  --color-gold: var(--gold);
+  --color-gold-dark: var(--gold-dark);
+  --color-exit-white: var(--white);
+  --color-text-primary: var(--text-primary);
+  --color-text-secondary: var(--text-secondary);
+  --color-border: var(--border);
+  --color-success: var(--success);
+  --color-warning: var(--warning);
+  --color-danger: var(--danger);
+  --color-surface-soft: var(--surface-soft);
+}
+
+body {
+  background: var(--ivory);
+  color: var(--text-primary);
+}
