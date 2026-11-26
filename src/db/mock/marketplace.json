@@ -1,0 +1,127 @@
+{
+  "total": 12,
+  "sort": "returnDesc",
+  "items": [
+    {
+      "id": "o1",
+      "title": "Pembiayaan Pengembangan Bahan Baku UMKM",
+      "type": "P2P Lending",
+      "amount": 75000000,
+      "returnPct": 11.4,
+      "tenorMonths": 12,
+      "fundedPct": 76,
+      "partner": "Mitra A"
+    },
+    {
+      "id": "o2",
+      "title": "Pendanaan Ekspansi Gerai F&B",
+      "type": "SCF",
+      "amount": 100000000,
+      "returnPct": 12.5,
+      "tenorMonths": 18,
+      "fundedPct": 64,
+      "partner": "Mitra B"
+    },
+    {
+      "id": "o3",
+      "title": "Modal Kerja Sektor Pertanian",
+      "type": "P2P Lending",
+      "amount": 50000000,
+      "returnPct": 10.5,
+      "tenorMonths": 9,
+      "fundedPct": 88,
+      "partner": "Mitra C"
+    },
+    {
+      "id": "o4",
+      "title": "Pengembangan Platform EduTech",
+      "type": "SCF",
+      "amount": 120000000,
+      "returnPct": 13.0,
+      "tenorMonths": 24,
+      "fundedPct": 45,
+      "partner": "Mitra A"
+    },
+    {
+      "id": "o5",
+      "title": "Investasi Renewable Energy",
+      "type": "P2P Lending",
+      "amount": 90000000,
+      "returnPct": 11.0,
+      "tenorMonths": 12,
+      "fundedPct": 52,
+      "partner": "Mitra B"
+    },
+    {
+      "id": "o6",
+      "title": "Pembiayaan Infrastruktur Logistik",
+      "type": "SCF",
+      "amount": 150000000,
+      "returnPct": 12.8,
+      "tenorMonths": 30,
+      "fundedPct": 33,
+      "partner": "Mitra C"
+    },
+    {
+      "id": "o7",
+      "title": "Ekspansi Ritel Fashion",
+      "type": "P2P Lending",
+      "amount": 80000000,
+      "returnPct": 10.9,
+      "tenorMonths": 15,
+      "fundedPct": 70,
+      "partner": "Mitra A"
+    },
+    {
+      "id": "o8",
+      "title": "Digitalisasi UMKM",
+      "type": "SCF",
+      "amount": 60000000,
+      "returnPct": 12.2,
+      "tenorMonths": 10,
+      "fundedPct": 61,
+      "partner": "Mitra B"
+    },
+    {
+      "id": "o9",
+      "title": "Investasi Startup FinTech",
+      "type": "P2P Lending",
+      "amount": 110000000,
+      "returnPct": 13.5,
+      "tenorMonths": 20,
+      "fundedPct": 40,
+      "partner": "Mitra C"
+    },
+    {
+      "id": "o10",
+      "title": "Pembiayaan Proyek Agrikultur",
+      "type": "SCF",
+      "amount": 95000000,
+      "returnPct": 11.8,
+      "tenorMonths": 14,
+      "fundedPct": 55,
+      "partner": "Mitra A"
+    },
+    {
+      "id": "o11",
+      "title": "Pengembangan Aplikasi Mobile",
+      "type": "P2P Lending",
+      "amount": 70000000,
+      "returnPct": 12.0,
+      "tenorMonths": 12,
+      "fundedPct": 68,
+      "partner": "Mitra B"
+    },
+    {
+      "id": "o12",
+      "title": "Investasi Infrastruktur Telekomunikasi",
+      "type": "SCF",
+      "amount": 130000000,
+      "returnPct": 13.2,
+      "tenorMonths": 22,
+      "fundedPct": 38,
+      "partner": "Mitra C"
+    }
+  ],
+  "catatan": "12 dummy items with placeholder partners"
+}

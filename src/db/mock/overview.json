@@ -1,0 +1,18 @@
+{
+  "stats": {
+    "portfolioValue": 325000000,
+    "totalReturn": 26715000,
+    "activePositions": 8
+  },
+  "activity": {
+    "newOffers": 3,
+    "takeoverRequests": 2,
+    "activeNegotiations": 1
+  },
+  "performance": {
+    "months": ["Jan", "Feb", "Mar", "Apr", "Mei", "Jun"],
+    "value": [300, 305, 310, 318, 322, 325],
+    "unit": "juta Rp",
+    "growthPct": 8.21
+  }
+}

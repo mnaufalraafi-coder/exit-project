@@ -1,0 +1,12 @@
+{
+  "stats": {
+    "total": 325000000,
+    "totalReturn": 26715000,
+    "avgReturnPct": 8.21
+  },
+  "composition": [
+    { "label": "P2P Lending", "pct": 60 },
+    { "label": "SCF", "pct": 40 }
+  ],
+  "performance": "sama seperti dt05"
+}
